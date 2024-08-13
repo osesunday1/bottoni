@@ -73,20 +73,20 @@ const Questions = () => {
 
 const faqData = [
   {
-    question: 'What is SEO and why is it important?',
-    answer: 'Dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur. Dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.'
+    question: 'What is male breast cancer?',
+    answer: 'Male breast cancer is a rare form of cancer that develops in the small amount of breast tissue found in men. While its much more common in women, men can develop breast cancer as well.'
   },
   {
-    question: 'What are the main components of SEO?',
-    answer: 'Dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur sdsadadasdd as asdas dasddasd asdasdasda sdsd s das daasdasdasdas sdasdasdasdasdasdasdsd asd as dadasdasd asd asd asasasd aadada . Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
+    question: 'What are the symptoms of male breast cancer?',
+    answer: 'Common symptoms include a lump or thickening in the breast tissue, changes to the skin covering the breast (dimpling, puckering, or redness), changes to the nipple (such as redness, scaling, or an inward turn), and discharge from the nipple.'
   },
   {
-    question: 'What is the role of content in SEO?',
-    answer: 'Dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur.'
+    question: ' What are the risk factors for male breast cancer?',
+    answer: 'Risk factors include age (most common in men over 60), family history of breast cancer, genetic mutations (such as BRCA1 or BRCA2), exposure to radiation, high levels of estrogen, and certain conditions like Klinefelter syndrome.'
   },
   {
-    question: 'What factors influence website ranking?',
-    answer: 'Dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur.'
+    question: 'Can men reduce their risk of breast cancer?',
+    answer: 'While you cant prevent male breast cancer entirely, maintaining a healthy weight, limiting alcohol intake, and being aware of family history can help lower the risk. Regular check-ups and early detection are crucial.'
   }
 ];
 
